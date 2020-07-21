@@ -27,7 +27,7 @@ cloud developer and devOps enthusiasm.Except software development, I'm a social 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg"></code>
