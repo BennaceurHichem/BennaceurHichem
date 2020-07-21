@@ -46,7 +46,6 @@ cloud developer and devOps enthusiasm.Except software development, I'm a social 
 
 
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 
 
 ### Interesting stats
