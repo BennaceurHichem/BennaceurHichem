@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning : Node.js with microservics architecture, software product managment role on coursera 
+- I'm open for any freelance project  or working in a company as a developer or junior software product manager  
 - 🔭 I'm seeking to start my own digital business link software development with digital marketing on social media for small businesses
 
 
