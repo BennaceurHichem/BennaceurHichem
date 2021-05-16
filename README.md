@@ -1,8 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning and Aplying : Android dev, React & React Native 
-- I'm working as a software engineer at IT COMP 
-- I'm open for any freelance project
-- 🔭 I'm seeking to start my own digital business link software development with digital marketing on social media for small businesses
+- 🌱 I’m currently working as Nuxt.js developer 
+- I'm working as a Growth hacker engineer at Grainer 
 
 
 # Bennaceur Hichem Contacts 
