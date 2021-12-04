@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently working as Nuxt.js developer 
-- I'm working as a Growth hacker engineer at Grainer 
+- 🌱 I’m currently working as Nuxt.js developer using Typescript and Graphql 
 
 
 # Bennaceur Hichem Contacts 
